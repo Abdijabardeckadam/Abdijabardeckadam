@@ -73,7 +73,7 @@ Hands-on Cisco networking labs including:
 
 📧 Email: mailto:mahadkadek@gmail.com
 
-💬 WhatsApp: https://wa.me/+252905365657 br
+💬 WhatsApp: https://wa.me/+252905365657 
 
 ⭐ Thanks for visiting my profile!
 
