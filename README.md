@@ -8,8 +8,7 @@
 </p>
 
 🎓 **Cisco CCNA 200-301** — In Progress  
-📚 **CompTIA Network+** — Learning Path  
-🎯 **Cisco CCNP** — Future Goal
+📚 **CompTIA Network+** — Learning Path
 
 🎓 Computer Science Student | 🌐 Networking & Cybersecurity Enthusiast
 ## 🛠️ Technologies & Tools
