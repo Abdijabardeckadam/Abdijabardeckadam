@@ -1,4 +1,6 @@
-![Banner](assets.png)
+![My Banner](My%20Banner.png)
+
+
 
 ## Hi there 👋
 
