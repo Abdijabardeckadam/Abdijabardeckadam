@@ -1,4 +1,4 @@
-![Banner](D:\assets)
+![Banner](assets)
 
 ## Hi there 👋
 
