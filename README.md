@@ -163,7 +163,7 @@ Practical security and cryptography exercises.
 🔗 LinkedIn:www.linkedin.com/in/abdijabar-deck-adam-a0164a37b
 
 📧 Email:mahadkadek@gmail.com
-
+💬 WhatsApp: https://wa.me/+252905365657 
 
 
 ---
@@ -172,7 +172,7 @@ Practical security and cryptography exercises.
 💻 Building my skills in Networking & Cybersecurity  
 🚀 Always learning, always improving
 
-💬 WhatsApp: https://wa.me/+252905365657 
+
   
   ⭐ Thanks for visiting my profile!
 
