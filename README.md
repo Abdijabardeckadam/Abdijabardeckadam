@@ -91,11 +91,12 @@ Hands-on Cisco networking labs including:
 📧 Email:mahadkadek@gmail.com
 
 💬 WhatsApp: https://wa.me/+252905365657 
-
+  
+  ⭐ Thanks for visiting my profile!
 
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Abdijabardeckadam&color=blueviolet&style=for-the-badge)
-⭐ Thanks for visiting my profile!
+
 
 
