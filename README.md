@@ -105,6 +105,33 @@ Hands-on Cisco networking labs including:
 🔄 Linux Administration  
 🔄 Python for Networking  
 ⬜ Network Automation
+
+## 🚀 Featured Projects
+
+### 🌐 CCNA Networking Labs
+Hands-on Cisco networking labs using Cisco Packet Tracer.
+
+**Topics Covered:**
+- Router & Switch Configuration
+- IPv4 Addressing & Subnetting
+- VLANs & Trunking
+- STP & EtherChannel
+- NAT & DHCP
+- Routing Protocols
+
+📌 Repository coming soon...
+
+
+### 🔐 Cybersecurity Projects
+Practical security and cryptography exercises.
+
+**Topics Covered:**
+- Encryption & Decryption
+- Hashing Concepts
+- Network Security Fundamentals
+- Security Tools Practice
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
