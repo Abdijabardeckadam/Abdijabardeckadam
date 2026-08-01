@@ -86,6 +86,25 @@ Hands-on Cisco networking labs including:
 
 ---
 
+## 🗺️ My Learning Roadmap
+
+### 🌐 Networking
+✅ Network Fundamentals  
+✅ OSI & TCP/IP Models  
+✅ IPv4 Addressing & Subnetting  
+🔄 Cisco CCNA 200-301  
+⬜ CCNP Enterprise  
+
+### 🔐 Cybersecurity
+🔄 Security Fundamentals  
+🔄 Cryptography Basics  
+⬜ Ethical Hacking  
+⬜ Security Operations (SOC)
+
+### 💻 Technical Skills
+🔄 Linux Administration  
+🔄 Python for Networking  
+⬜ Network Automation
 ## 📊 GitHub Stats
 
 <p align="center">
