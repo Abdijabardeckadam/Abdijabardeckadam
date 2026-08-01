@@ -1,20 +1,78 @@
 ![Banner](banner.png)
 
+# Hi there 👋, I'm Abdijabar
 
+🎓 Computer Science Student | 🌐 Networking & Cybersecurity Enthusiast
 
-## Hi there 👋
+Welcome to my GitHub profile! I am passionate about building my skills in **networking, cybersecurity, and IT infrastructure**.
 
-<!--
-**Abdijabardeckadam/Abdijabardeckadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science (Networking & Cybersecurity)
+- 🌱 Currently learning **Cisco CCNA Routing & Switching**
+- 🔐 Interested in Network Security and Cybersecurity
+- 🖥️ Building hands-on labs using Cisco Packet Tracer
+- 📚 Always improving my technical skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Networking
+- Cisco Packet Tracer
+- Routing & Switching
+- VLANs
+- NAT
+- DHCP
+- STP
+- Network Troubleshooting
+
+### Cybersecurity
+- Network Security Fundamentals
+- Cryptography Basics
+- Hashing & Encryption
+- Security Tools
+
+### Tools
+- Wireshark
+- VMware
+- GNS3
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🌐 CCNA Labs
+Hands-on Cisco networking labs including:
+- Network Topologies
+- Router & Switch Configurations
+- VLAN Implementation
+- Routing Protocol Practice
+
+### 🔐 Cybersecurity Projects
+- Encryption & Cryptography Practice
+- Security Concepts Implementation
+
+---
+
+## 📚 Currently Learning
+
+- CCNA 200-301
+- Python for Networking
+- Linux
+- Cybersecurity Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/inabdijabar-deck-adam-a0164a37b
+
+📧 Email: mailto:mahadkadek@gmail.com
+
+💬 WhatsApp: https://wa.me/+252905365657
+⭐ Thanks for visiting my profile!
+
