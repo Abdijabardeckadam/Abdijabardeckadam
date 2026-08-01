@@ -69,7 +69,7 @@ Hands-on Cisco networking labs including:
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/inabdijabar-deck-adam-a0164a37b
+🔗 LinkedIn:www.linkedin.com/in/abdijabar-deck-adam-a0164a37b
 
 📧 Email: mailto:mahadkadek@gmail.com
 
