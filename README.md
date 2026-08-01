@@ -1,6 +1,5 @@
 ![Banner](banner.png)
 
-
 ## 🏅 Certifications & Learning Path
 
 <p align="center">
@@ -11,7 +10,6 @@
 🎓 **Cisco CCNA 200-301** — In Progress  
 📚 **CompTIA Network+** — Learning Path  
 🎯 **Cisco CCNP** — Future Goal
-# Hi there 👋, I'm Abdijabar
 
 🎓 Computer Science Student | 🌐 Networking & Cybersecurity Enthusiast
 ## 🛠️ Technologies & Tools
