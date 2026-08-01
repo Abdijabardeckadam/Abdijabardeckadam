@@ -92,5 +92,10 @@ Hands-on Cisco networking labs including:
 
 💬 WhatsApp: https://wa.me/+252905365657 
 
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Abdijabardeckadam&color=blueviolet&style=for-the-badge)
 ⭐ Thanks for visiting my profile!
+
 
