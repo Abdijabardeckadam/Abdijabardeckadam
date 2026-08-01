@@ -164,6 +164,14 @@ Practical security and cryptography exercises.
 
 📧 Email:mahadkadek@gmail.com
 
+
+
+---
+
+⭐️ From [Abdijabar](https://github.com/Abdijabardeckadam)  
+💻 Building my skills in Networking & Cybersecurity  
+🚀 Always learning, always improving
+
 💬 WhatsApp: https://wa.me/+252905365657 
   
   ⭐ Thanks for visiting my profile!
