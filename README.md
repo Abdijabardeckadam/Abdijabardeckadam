@@ -1,4 +1,4 @@
-![My Banner](My%20Banner.png)
+![Banner](banner.png)
 
 
 
