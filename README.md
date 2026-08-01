@@ -3,6 +3,17 @@
 # Hi there 👋, I'm Abdijabar
 
 🎓 Computer Science Student | 🌐 Networking & Cybersecurity Enthusiast
+## 🛠️ Technologies & Tools
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 Welcome to my GitHub profile! I am passionate about building my skills in **networking, cybersecurity, and IT infrastructure**.
 
