@@ -162,7 +162,7 @@ Practical security and cryptography exercises.
 
 🔗 LinkedIn:www.linkedin.com/in/abdijabar-deck-adam-a0164a37b
 
-📧 Email:mahadkadek@gmail.com br
+📧 Email:mahadkadek@gmail.com 
 
 💬 WhatsApp: https://wa.me/+252905365657 
 
