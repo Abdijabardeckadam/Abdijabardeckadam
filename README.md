@@ -132,11 +132,17 @@ Practical security and cryptography exercises.
 - Security Tools Practice
 
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdijabardeckadam&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdijabardeckadam&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,python,bash,vscode&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-Labs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GNS3-Labs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 ## 📝 Latest Learning Notes
 
